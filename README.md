@@ -31,6 +31,14 @@
 4. [Pocketbase](https://pocketbase.io/)
 5. Digital Ocean
 6. Firebase
+7. Appwrite
+
+## Realtime  
+1. Supabase
+2. Appwrite
+
+## Other?
+1. Appwrite
 
 # Hosting, Deployment & Edge Funcs
 ## Hosting/Deployment
@@ -54,6 +62,7 @@
 2. [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
 3. Digital Ocean
 4. Firebase
+5. Appwrite
 
 # Misc
 ## OAuth
@@ -61,6 +70,7 @@
 2. [Supabase](https://supabase.com/auth)
 3. [Pocketbase](https://pocketbase.io/)
 4. Firebase
+5. Appwrite
 
 ## Icons/Images/Components
 1. [HeroIcons](https://heroicons.com/)
