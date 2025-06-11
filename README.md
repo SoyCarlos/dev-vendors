@@ -8,28 +8,29 @@
 4. [Neon](https://neon.tech/)
 5. [Heroku Postgres](https://www.heroku.com/postgres)
 6. [Supabase](https://supabase.com/database)
-7. Digital Ocean
+7. [Digital Ocean](https://www.digitalocean.com/products/managed-databases-postgresql)
+
 ##  MySQL
 1. [Planetscale](https://planetscale.com/)
 2. [AWS RDS](https://aws.amazon.com/rds/)
 3. [AWS Aurora](https://aws.amazon.com/rds/aurora/)
-4. Digital Ocean
+4. [Digital Ocean](https://www.digitalocean.com/products/managed-databases-mysql)
 
-## Redis
+## Redis/Valkey
 1. [Upstash](https://upstash.com/)
 2. [Vercel KV](https://vercel.com/storage/kv)
 3. [Heroku Redis](https://www.heroku.com/redis)
-4. Digital Ocean
+4. [Digital Ocean](https://www.digitalocean.com/products/managed-databases-valkey)
 
 ## MongoDB
-1. Digital Ocean
+1. [Digital Ocean](https://www.digitalocean.com/products/managed-databases-mongodb)
 
 ## Blob/Object Storage
 1. [S3](https://aws.amazon.com/s3/)
 2. [Vercel Blob](https://vercel.com/storage/blob)
 3. [Supabase Storage](https://supabase.com/storage)
 4. [Pocketbase](https://pocketbase.io/)
-5. Digital Ocean
+5. [Digital Ocean](https://www.digitalocean.com/products/spaces)
 6. Firebase
 7. Appwrite
 
@@ -83,3 +84,10 @@
 1. [Excalidraw](https://excalidraw.com/)
 2. [Penpot](https://penpot.app/)
 3. [Figma](https://www.figma.com/)
+
+## Frameworks
+1. [Svelte](https://svelte.dev/)
+
+## AI UI/EX
+1. [Google Stitch](https://stitch.withgoogle.com/)
+2. [v0](https://v0.dev/)
